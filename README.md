@@ -23,10 +23,12 @@
 - Water must be all connected and orthogonally.
 
 - Since there is water, there will also be water hints, BUT to keep the challenge there will only be the hints for the rows, meaning that there will be hints only in each side of the row. The hints on the left will be for water and the hints on the right will be for tents.
+<p float="left">
+<img src="unsolved_trees.png" alt="Alt Text" width="300">
+<img src="solved_trees.png" alt="Alt Text" width="300">
+<img src="solved_trees_with_water.png" alt="Alt Text" width="300">
+</p>
 
-<img src="unsolved_trees.png" alt="Alt Text" width="100">
-<img src="solved_trees.png" alt="Alt Text" width="100">
-<img src="solved_trees_with_water.png" alt="Alt Text" width="100">
 Each project from this semester is a public fork linked from this repository.  This is just one of the many assignments students worked on for the course, but this is the *only* one they are permitted to publish openly.
 
 ## Final Project Expectations:
