@@ -24,13 +24,12 @@
 
 - Since there is water, there will also be water hints, BUT to keep the challenge there will only be the hints for the rows, meaning that there will be hints only in each side of the row. The hints on the left will be for water and the hints on the right will be for tents.
   
-<div style="text-align: center;">
-  <p style="display: inline-block;">
-    <img src="unsolved_trees.png" alt="Alt Text" width="250">
-    <img src="solved_trees.png" alt="Alt Text" width="250">
-    <img src="solved_trees_with_water.png" alt="Alt Text" width="250">
-  </p>
+<div align="center">
+  <img src="unsolved_trees.png" alt="Unsolved Trees" width="250">
+  <img src="solved_trees.png" alt="Solved Trees" width="250">
+  <img src="solved_trees_with_water.png" alt="Solved Trees with Water" width="250">
 </div>
+
 
 
 ### Backtracker 
