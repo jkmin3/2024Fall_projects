@@ -1,5 +1,7 @@
 # 2024 Fall Final Projects
-
+<img src="unsolved_trees.png" alt="Alt Text" width="300">
+<img src="solved_trees.png" alt="Alt Text" width="300">
+<img src="solved_trees_with_water.png" alt="Alt Text" width="300">
 Each project from this semester is a public fork linked from this repository.  This is just one of the many assignments students worked on for the course, but this is the *only* one they are permitted to publish openly.
 
 ## Final Project Expectations:
